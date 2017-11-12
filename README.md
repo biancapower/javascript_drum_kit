@@ -1,1 +1,1 @@
-# javascript_drum_kit
+# Javascript Drum Kit
